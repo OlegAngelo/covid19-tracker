@@ -1,10 +1,10 @@
-import React from 'react';
+import * as React from 'react';
 
 import { 
   FormControl, 
   Select, 
   MenuItem
-} from '@material-ui/core';
+} from '@mui/material';
 
 import './App.css';
 
