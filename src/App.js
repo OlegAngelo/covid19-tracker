@@ -4,7 +4,7 @@ import {
   FormControl, 
   Select, 
   MenuItem
-} from '@mui/material';
+} from '@material-ui/core';
 
 import './App.css';
 
